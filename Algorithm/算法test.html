@@ -100,24 +100,26 @@
 
     <script>
         // 快速排序
-        // function quickSort(arr,left,right) {
-        //     if(left == right) {
-        //         return arr;
-        //     }
-        //     let len = arr.length,
-        //         flag = arr[left];
-        //     let l = left, r = right;
-        //     for (let i = left; i <= right; i++) {
-        //         if(arr[i] < flag) {
-        //             arr[l++] = arr[i]
-        //         }else {
-        //             arr[r--] = arr[i]
-        //         }
-        //     }
-        //     arr[l] = flag;
-        //     quickSort(arr, 0, l-1);
-        //     quickSort(arr, l+1, arr.length-1);
-        // }
+        function quickSort(arr,left,right) {
+            let pivot = left,
+                l = pivot+1;
+            if(left < right){
+                for (let i = l; i <= right; i++) {
+                    if(arr[i] < arr[pivot]) {
+                        var temp = arr[l];
+                        arr[l] = arr[i];
+                        arr[i] = temp;
+                        l ++;
+                    }
+                }
+                var temp2 = arr[l-1];
+                arr[l-1] = arr[pivot];
+                arr[pivot]=temp2;
+                quickSort(arr, 0, l-2);
+                quickSort(arr, l+1, arr.length-1);
+            }
+            return arr;
+        }
         function quickSort(arr, left, right) {
             var len = arr.length,
                 partitionIndex,
@@ -138,9 +140,6 @@
             for (var i = index; i <= right; i++) {
                 if (arr[i] < arr[pivot]) {
                     swap(arr, i, index);
-                    // var temp = arr[i];
-                    // arr[i] = arr[index];
-                    // arr[index] = temp;
                     index++;
                 }        
             }
@@ -153,7 +152,7 @@
             arr[i] = arr[j];
             arr[j] = temp;
         }
-        console.log('快速排序：',quickSort([3,1,7,4,8,2,4,9,5], 0, 9))
+        console.log('快速排序：',quickSort([3,1,7,4,8,2,4,9,5], 0, 8))
     </script>
 </body>
 </html>

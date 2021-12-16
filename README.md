@@ -1,6 +1,12 @@
 # frontend-studynotes
 
-20201.12.09
+2021.12.16
+
+1. 使用mock获取测试数据
+2. 了解PM2
+
+2021.12.09
+
 1. 学习Nuxtjs
 2. 创建了Nuxtjs项目
 

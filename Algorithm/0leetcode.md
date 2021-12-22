@@ -21,7 +21,8 @@
 
 ## 三
 
-1 分隔链表 https://leetcode-cn.com/problems/partition-list
+1. 分隔链表 https://leetcode-cn.com/problems/partition-list
+
 2. 复制带随机指针的链表 https://leetcode-cn.com/problems/copy-list-with-random-pointer
 3. 设计循环队列 https://leetcode-cn.com/problems/design-circular-queue
 4. 设计循环双端队列 https://leetcode-cn.com/problems/design-circular-deque
@@ -72,3 +73,14 @@
 2. 链表中倒数第k个节点 https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof
 3. 复杂链表的复制 https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof
 4. 删除中间节点 https://leetcode-cn.com/problems/delete-middle-node-lcci
+
+
+
+### 八
+
+1. 两数相加 II        https://leetcode-cn.com/problems/add-two-numbers-ii
+
+2. 重排链表        https://leetcode-cn.com/problems/reorder-list
+3. 环路检测        https://leetcode-cn.com/problems/linked-list-cycle-lcci
+4. 设计链表        https://leetcode-cn.com/problems/design-linked-list
+5. 删除链表的节点 https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof

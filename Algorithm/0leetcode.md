@@ -84,3 +84,12 @@
 3. 环路检测        https://leetcode-cn.com/problems/linked-list-cycle-lcci
 4. 设计链表        https://leetcode-cn.com/problems/design-linked-list
 5. 删除链表的节点 https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof
+
+
+
+### 九
+
+1. 分隔链表        https://leetcode-cn.com/problems/split-linked-list-in-parts
+2. 分割链表        https://leetcode-cn.com/problems/partition-list-lcci
+3. 第K个语法符号        https://leetcode-cn.com/problems/k-th-symbol-in-grammar
+4. 斐波那契数列        https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof

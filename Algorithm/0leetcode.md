@@ -93,3 +93,42 @@
 2. 分割链表        https://leetcode-cn.com/problems/partition-list-lcci
 3. 第K个语法符号        https://leetcode-cn.com/problems/k-th-symbol-in-grammar
 4. 斐波那契数列        https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof
+
+
+
+### 十
+
+1. 路径总和        https://leetcode-cn.com/problems/path-sum
+2. 从前序与中序遍历序列构造二叉树        https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+3. 完全二叉树的节点个数        https://leetcode-cn.com/problems/count-complete-tree-nodes
+4. 二叉搜索树的第k大节点        https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof
+5. 树的子结构        https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof
+
+
+
+### 十一
+
+1. 监控二叉树        https://leetcode-cn.com/problems/binary-tree-cameras
+2. 二叉树最大宽度        https://leetcode-cn.com/problems/maximum-width-of-binary-tree
+3. 二叉树的前序遍历        https://leetcode-cn.com/problems/binary-tree-preorder-traversal
+4. N 叉树的前序遍历        https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal
+5. 翻转二叉树        https://leetcode-cn.com/problems/invert-binary-tree
+
+
+
+### 十二
+
+1. 从上到下打印二叉数II        https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof
+2. 二叉树的层序遍历 II        https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii
+3. 二叉树的锯齿形层序遍历        https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal
+4. 平衡二叉树        https://leetcode-cn.com/problems/balanced-binary-tree
+
+
+
+### 十三
+
+1. 最小的k个数        https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof
+2. 最后一块石头的重量        https://leetcode-cn.com/problems/last-stone-weight
+3. 数据流中的第 K 大元素        https://leetcode-cn.com/problems/kth-largest-element-in-a-stream
+4. 查找和最小的K对数字        https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums
+5. 数组中的第K个最大元素        https://leetcode-cn.com/problems/kth-largest-element-in-an-array

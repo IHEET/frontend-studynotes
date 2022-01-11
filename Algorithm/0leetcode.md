@@ -132,3 +132,16 @@
 3. 数据流中的第 K 大元素        https://leetcode-cn.com/problems/kth-largest-element-in-a-stream
 4. 查找和最小的K对数字        https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums
 5. 数组中的第K个最大元素        https://leetcode-cn.com/problems/kth-largest-element-in-an-array
+
+
+
+### 十四
+
+1. 设计推特 https://leetcode-cn.com/problems/design-twitter
+2. 前K个高频单词 https://leetcode-cn.com/problems/top-k-frequent-words
+3. 连续中值 https://leetcode-cn.com/problems/continuous-median-lcci
+4. 数据流的中位数 https://leetcode-cn.com/problems/find-median-from-data-stream
+5. 积压订单中的订单总数 https://leetcode-cn.com/problems/number-of-orders-in-the-backlog
+6. 丑数 II https://leetcode-cn.com/problems/ugly-number-ii
+7. 超级丑数 https://leetcode-cn.com/problems/super-ugly-number
+8. 移除石子的最大得分 https://leetcode-cn.com/problems/maximum-score-from-removing-stones

@@ -145,3 +145,37 @@
 6. 丑数 II https://leetcode-cn.com/problems/ugly-number-ii
 7. 超级丑数 https://leetcode-cn.com/problems/super-ugly-number
 8. 移除石子的最大得分 https://leetcode-cn.com/problems/maximum-score-from-removing-stones
+
+
+
+### 十五
+
+1. 二叉树的最大深度 https://leetcode-cn.com/problems/maximum-depth-of-binary-tree
+2. 合法二叉搜索树 https://leetcode-cn.com/problems/legal-binary-search-tree-lcci 
+3. 二叉搜索树中第K小的元素 https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst 
+4. 二叉树的右视图 https://leetcode-cn.com/problems/binary-tree-right-side-view
+
+
+
+### 十六
+
+1. 相同的树        https://leetcode-cn.com/problems/same-tree
+2. 对称二叉树        https://leetcode-cn.com/problems/symmetric-tree
+3. 二叉搜索树的最近公共祖先        https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof
+4. 二叉树中的最大路径和        https://leetcode-cn.com/problems/binary-tree-maximum-path-sum
+
+
+
+### 十七
+
+1. 前 K 个高频元素        https://leetcode-cn.com/problems/top-k-frequent-elements
+2. 最接近原点的 K 个点        https://leetcode-cn.com/problems/k-closest-points-to-origin
+3. 根据字符出现频率排序        https://leetcode-cn.com/problems/sort-characters-by-frequency
+
+
+
+### 十八
+
+1. 省份数量        https://leetcode-cn.com/problems/number-of-provinces
+2. 岛屿数量        https://leetcode-cn.com/problems/number-of-islands
+3. 等式方程的可满足性        https://leetcode-cn.com/problems/satisfiability-of-equality-equations

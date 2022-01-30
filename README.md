@@ -1,5 +1,11 @@
 # frontend-studynotes
 
+2022.01.30
+
+[反转链表-掘金](https://juejin.cn/post/7058813856398704654/)
+
+[反转链表II-掘金](https://juejin.cn/post/7058830306307997704/)
+
 2022.01.29
 
 [环形链表II-掘金](https://juejin.cn/post/7058548911794814984)

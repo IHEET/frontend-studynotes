@@ -1,5 +1,15 @@
 # frontend-studynotes
 
+
+
+2022.02.02
+
+[K 个一组翻转链表](https://juejin.cn/post/7059967145345548318/)
+
+[61.旋转链表](https://juejin.cn/post/7060025838988689445/)
+
+[24. 两两交换链表中的节点](https://juejin.cn/post/7060162016211632158/)
+
 2022.01.30
 
 [反转链表-掘金](https://juejin.cn/post/7058813856398704654/)

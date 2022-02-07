@@ -188,3 +188,44 @@
 2. 连通网络的操作次数        https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected
 3. 最长连续序列        https://leetcode-cn.com/problems/longest-consecutive-sequence
 4. 移除最多的同行或同列石头        https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column
+
+
+
+
+
+### 二十
+
+1. 交换字符串中的元素 https://leetcode-cn.com/problems/smallest-string-with-swaps
+2. 账户合并 https://leetcode-cn.com/problems/accounts-merge
+3. 情侣牵手 https://leetcode-cn.com/problems/couples-holding-hands
+4. 冗余连接 II https://leetcode-cn.com/problems/redundant-connection-ii
+
+
+
+### 二十一
+
+1. 滑动窗口最大值 https://leetcode-cn.com/problems/sliding-window-maximum
+2. 用 Rand7() 实现 Rand10() https://leetcode-cn.com/problems/implement-rand10-using-rand7
+3. 盛最多水的容器 https://leetcode-cn.com/problems/container-with-most-water
+4. 字符串解码 https://leetcode-cn.com/problems/decode-string
+5. 不同的二叉搜索树 II https://leetcode-cn.com/problems/unique-binary-search-trees-ii
+
+
+
+### 二十二
+
+1. 颜色分类 https://leetcode-cn.com/problems/sort-colors
+2. 最小K个数 https://leetcode-cn.com/problems/smallest-k-lcci
+3. 排序链表 https://leetcode-cn.com/problems/sort-list
+4. 调整数组顺序使奇数位于偶数前面 https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof
+5. 排序数组 https://leetcode-cn.com/problems/sort-an-array
+
+
+
+### 二十三
+
+1. 合并K个升序链表 https://leetcode-cn.com/problems/merge-k-sorted-lists
+2. 子数组和排序后的区间和 https://leetcode-cn.com/problems/range-sum-of-sorted-subarray-sums
+3. 区间和的个数 https://leetcode-cn.com/problems/count-of-range-sum
+4. 计算右侧小于当前元素的个数 https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self
+5. 最大子序和 https://leetcode-cn.com/problems/maximum-subarray

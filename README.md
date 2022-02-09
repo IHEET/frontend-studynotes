@@ -1,5 +1,39 @@
 # frontend-studynotes
 
+2022.02.09
+
+做【复制带随机指针的链表】遇到了问题：用迭代法解决，在第一次迭代复制所有值节点后，进行第二次迭代，一次性将复制节点的random和next指向正确的位置出现问题。代码如下：
+
+```
+var copyRandomList = function(head) {
+    var p = head,q;
+    while(p != null) {
+        q = new Node(p.val);
+        q.next = p.next;
+        p.next = q;
+        p = q.next;
+    }
+    
+    var newHead =  head.next;
+    var q = newHead, p = head;
+    while(q != null) {
+        q.random = (p.random != null ? p.random.next : null);
+        if(p.next != null) {
+            p.next = p.next.next;
+        }
+        p = p.next;
+        if(q.next != null) {
+            q.next = q.next.next;
+        }
+        q = q.next;
+           
+    }
+    return newHead;//Random pointer of node with label 13 points to a node from the original list.
+};
+```
+
+
+
 2022.02.08
 
 [86. 分隔链表](https://juejin.cn/post/7062390809768755208/)

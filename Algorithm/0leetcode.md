@@ -238,3 +238,33 @@
 2. 删除被覆盖区间        https://leetcode-cn.com/problems/remove-covered-intervals
 3. 递增子序列        https://leetcode-cn.com/problems/increasing-subsequences
 4. 求和路径        https://leetcode-cn.com/problems/paths-with-sum-lcci
+
+
+
+### 二十五
+
+1. 课程表 https://leetcode-cn.com/problems/course-schedule/
+2. 课程表 II https://leetcode-cn.com/problems/course-schedule-ii/
+3. 数组的相对排序 https://leetcode-cn.com/problems/relative-sort-array/
+4. 最大间距 https://leetcode-cn.com/problems/maximum-gap/
+5. H 指数 https://leetcode-cn.com/problems/h-index/
+
+
+
+### 二十六
+
+1. 划分字母区间 https://leetcode-cn.com/problems/partition-labels/
+2. 部分排序 https://leetcode-cn.com/problems/sub-sort-lcci/
+3. 最长同值路径 https://leetcode-cn.com/problems/longest-univalue-path/
+4. 最大数 https://leetcode-cn.com/problems/largest-number/
+
+
+
+### 二十七
+
+1. 前 K 个高频元素 https://leetcode-cn.com/problems/top-k-frequent-elements/
+2. 字符频次唯一的最小删除次数 https://leetcode-cn.com/problems/minimum-deletions-to-make-character-frequencies-unique/
+3. 移动零 https://leetcode-cn.com/problems/move-zeroes/
+4. 合并排序的数组 https://leetcode-cn.com/problems/sorted-merge-lcci/
+5. 数组拆分 I https://leetcode-cn.com/problems/array-partition-i/
+6. 最多可以参加的会议数目 https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/

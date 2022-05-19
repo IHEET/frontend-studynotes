@@ -263,8 +263,34 @@
 ### 二十七
 
 1. 前 K 个高频元素 https://leetcode-cn.com/problems/top-k-frequent-elements/
+
 2. 字符频次唯一的最小删除次数 https://leetcode-cn.com/problems/minimum-deletions-to-make-character-frequencies-unique/
+
 3. 移动零 https://leetcode-cn.com/problems/move-zeroes/
+
 4. 合并排序的数组 https://leetcode-cn.com/problems/sorted-merge-lcci/
+
 5. 数组拆分 I https://leetcode-cn.com/problems/array-partition-i/
+
 6. 最多可以参加的会议数目 https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/
+
+   
+
+### 二十八
+
+1. Sqrt(x) https://leetcode-cn.com/problems/sqrtx/
+
+2. 搜索插入位置 https://leetcode-cn.com/problems/search-insert-position/
+3. 两数之和 https://leetcode-cn.com/problems/two-sum/
+4. 在排序数组中查找元素的第一个和最后一个位置 https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+5. 将 x 减到 0 的最小操作数 https://leetcode-cn.com/problems/minimum-operations-to-reduce-x-to-zero/
+
+
+
+### 二十九
+
+1. 供暖器 https://leetcode-cn.com/problems/heaters/
+2. 搜索旋转排序数组 II https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/
+3. 寻找两个正序数组的中位数 https://leetcode-cn.com/problems/median-of-two-sorted-arrays/
+4. 最长递增子序列 https://leetcode-cn.com/problems/longest-increasing-subsequence/
+5. 在 D 天内送达包裹的能力 https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/
